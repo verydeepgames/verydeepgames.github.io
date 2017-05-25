@@ -1,5 +1,4 @@
 This privacy policy governs your use of the software applications (“Application”) for mobile devices that was created by VeryDeepGames. 
-What information does the Application obtain and how is it used?
 
   User Provided Information 
 You don't have to provide any information to use the application.
@@ -16,7 +15,7 @@ We may work with analytics companies to help us understand how the Application i
   What are my opt-out rights?
 You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. 
 
-Data Retention Policy, Managing Your Information
+  Data Retention Policy, Managing Your Information
 The data is deleted when you uninstall the application. The data automatically collected by analytics companies is kept and managed by them. 
 Changes
 

@@ -7,13 +7,13 @@ You don't have to provide any information to use the application.
 The application collects games statistics, presented in the game. They are kept in your phone, and are not transfered anywhere.
 
   Automatic Data Collection and Advertising
-This application uses google ads. Google ads is a library provided by Google, and may collect user information. Google rules are described here here: https://policies.google.com/privacy
+There is no ads.
 
   What are my opt-out rights?
 You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. 
 
   Data Retention Policy, Managing Your Information
-Games statistics are kept on your phone, and deleted when you remove the application. For ads, Google rules are described here here: https://policies.google.com/privacy
+Games statistics are kept on your phone, and deleted when you remove the application. 
 
 This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
